@@ -1,8 +1,8 @@
-Анализ базы данных сервиса чтения книг (SQL) / Book reading service database analysis (SQL)
+## Анализ базы данных сервиса чтения книг (SQL) / Book reading service database analysis (SQL)
 Посмотреть проект https://github.com/martynovamarina/analytic_projects/blob/main/Book%20reading%20service%20database%20analysis%20(SQL)/Book%20reading%20service%20database%20analysis%20(SQL).ipynb
 
 
-Задачи/ Tasks
+**Задачи/ Tasks**
 Необходимо написать 5 запросов:
 
 - посчитать, сколько книг вышло после 1 января 2000 года;
@@ -11,5 +11,5 @@
 - определить автора с самой высокой средней оценкой книг — учитывать только книги с 50 и более оценками;
 - посчитать среднее количество обзоров от пользователей, которые поставили больше 48 оценок.
 
-Используемые навыки и инструменты
+**Используемые навыки и инструменты**
 Python, Pandas, Sqlalchemy, SQL
