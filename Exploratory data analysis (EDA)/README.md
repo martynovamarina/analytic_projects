@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# Исследование объявлений о продаже квартир в Санкт-Петербурге / Researching flats advertisements for sale in St. Petersburg [(Посмотреть проект)](https://github.com/martynovamarina/My_portfolio/blob/main/Data%20preprocessing/Project.ipynb)
-=======
+# Исследование объявлений о продаже квартир в Санкт-Петербурге / Researching flats advertisements for sale in St. Petersburg [(Посмотреть проект)](https://github.com/martynovamarina/analytic_projects/blob/main/Exploratory%20data%20analysis%20(EDA)/EDA%20SP%20apartments.ipynb)
+========================================================
 
 
 ## Задачи / Tasks
@@ -22,13 +22,3 @@
 
 ## Навыки и инструменты / Skills and tools
 Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных
-<<<<<<< HEAD
-
-<<<<<<< Updated upstream
-## [(Watch Project)](https://github.com/martynovamarina/My_portfolio/blob/main/Data%20preprocessing/Project.ipynb)
-=======
-## Открыть проект в формате Jupyter nbviewer / Open project in Jupyter nbviewer
-[Посмотреть проект](https://github.com/martynovamarina/My_portfolio/blob/main/Data%20preprocessing/Project.ipynb)
-=======
->>>>>>> 67fb38787158364b9fbf159e54e10ad29448177d
->>>>>>> Stashed changes
