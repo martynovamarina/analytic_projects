@@ -1,5 +1,5 @@
-Проект по А/B-тестированию 
-(Посмотреть проект)
+Проект по А/B-тестированию / A/B testing project
+Посмотреть проект - https://github.com/martynovamarina/analytic_projects/blob/main/AB%20testing%20project/AB%20test%20analyses.ipynb
 
 Задача/ Tasks
 
