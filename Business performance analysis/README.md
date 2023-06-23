@@ -1,7 +1,7 @@
 ## Оптимизация маркетинговых затрат в приложении/ Optimisation of marketing costs 
 Посмотреть проект - https://github.com/martynovamarina/analytic_projects/blob/main/Business%20performance%20analysis/Business%20performance%20analysis.%20Project.ipynb
 
-** Задачи/ Tasks**
+**Задачи/ Tasks**
 
 Необходимо подготовить данные и решить задачи:
 
