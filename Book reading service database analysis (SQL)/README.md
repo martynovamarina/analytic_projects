@@ -1,6 +1,5 @@
 ## Анализ базы данных сервиса чтения книг (SQL) / Book reading service database analysis (SQL)
-Посмотреть проект
-https://github.com/martynovamarina/analytic_projects/blob/main/Book%20reading%20service%20database%20analysis%20(SQL)/Book%20reading%20service%20database%20analysis%20(SQL).ipynb
+[(Посмотреть проект)] (https://github.com/martynovamarina/analytic_projects/blob/main/Book%20reading%20service%20database%20analysis%20(SQL)/Book%20reading%20service%20database%20analysis%20(SQL).ipynb)
 
 
 **Задачи/ Tasks**
