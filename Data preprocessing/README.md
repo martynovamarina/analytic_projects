@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Исследование надёжности заёмщиков банка / Study of the reliability of bank borrowers [(Посмотреть проект)](https://github.com/martynovamarina/My_portfolio/blob/main/Data%20preprocessing/Project.ipynb)
-=======
-# Исследование надёжности заёмщиков банка / Study of the reliability of bank borrowers [(Посмотреть проект)](Data preprocessing/Project.ipynb)
->>>>>>> 67fb38787158364b9fbf159e54e10ad29448177d
->>>>>>> Stashed changes
+# Исследование надёжности заёмщиков банка / Study of the reliability of bank borrowers 
+[(Посмотреть проект)](https://github.com/martynovamarina/analytic_projects/blob/main/Data%20preprocessing/Project-Borrower%20reliability%20research.ipynb)
 
 ## Задачи / Tasks
 Необходимо было обработать данные и ответить на следующие вопросы:
@@ -35,13 +31,3 @@
 
 ## Навыки и инструменты / Skills and tools
 `Data preprocessing`, `Python`, `Pandas`, `lemmatization`
-<<<<<<< HEAD
-
-<<<<<<< Updated upstream
-## [(Watch Project)](https://github.com/martynovamarina/My_portfolio/blob/main/Data%20preprocessing/Project.ipynb)
-=======
-## Открыть проект в формате Jupyter nbviewer / Open project in Jupyter nbviewer
-[Посмотреть проект](https://github.com/martynovamarina/My_portfolio/blob/main/Data%20preprocessing/Project.ipynb)
-=======
->>>>>>> 67fb38787158364b9fbf159e54e10ad29448177d
->>>>>>> Stashed changes
