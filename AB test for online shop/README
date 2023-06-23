@@ -1,8 +1,8 @@
-# Проверка гипотез по увеличению выручки в интернет-магазине — оценка результатов A/B теста/ 
-# Testing hypotheses - How to increase revenue in the online shop - evaluating A/B test results 
-[(Посмотреть проект)] (https://github.com/martynovamarina/My_portfolio/blob/main/AB%20test%20for%20online%20shop/AB%20test%20for%20online%20shop.ipynb) 
+Проверка гипотез по увеличению выручки в интернет-магазине — оценка результатов A/B теста/ 
+Testing hypotheses - How to increase revenue in the online shop - evaluating A/B test results 
+[(Посмотреть проект)] (https://github.com/martynovamarina/analytic_projects/blob/main/AB%20test%20for%20online%20shop/AB%20test%20for%20online%20shop.ipynb) 
 
-## Задачи/ Tasks
+Задачи/ Tasks
 Необходимо подготовить данные и решить задачи:
 
 * провести приоритизация гипотез по фреймворкам ICE и RICE;
@@ -11,10 +11,10 @@
 * посчитать статистическую значимость различий конверсий и средних чеков по сырым и очищенным данным;
 * на основании анализа принять решение о продолжении проведения теста или об остановке тестирования.
 
-## Проделанная работа/ Work done
+Проделанная работа/ Work done
 Проведена приоритизация гипотез по фреймворкам ICE и RICE. Затем проведен анализ результатов A/B-теста, построены графики кумулятивной выручки, среднего чека, конверсии по группам, а затем посчитаны статистическая значимость различий конверсий и средних чеков по сырым и очищенным данным.
 
-## Используемые навыки и инструменты / Skills and tools
+Используемые навыки и инструменты / Skills and tools
 Python, Pandas, Matplotlib, Seaborn, Plotly, SciPy, A/B-тестирование, проверка статистических гипотез
 
-## [Посмотреть проект]/ [Look over the project] (https://github.com/martynovamarina/My_portfolio/blob/main/AB%20test%20for%20online%20shop/AB%20test%20for%20online%20shop.ipynb)
+[Посмотреть проект]/ [Look over the project] (https://github.com/martynovamarina/analytic_projects/blob/main/AB%20test%20for%20online%20shop/AB%20test%20for%20online%20shop.ipynb)
