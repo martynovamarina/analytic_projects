@@ -1,5 +1,6 @@
 # Дашборд для Яндекс.Дзен/ Dashboard for Yandex.Zen
 
+[(Посмотреть проект)](https://github.com/martynovamarina/analytic_projects/blob/main/Automation/Automatization%20project.ipynb)
 [(Дашборд в Tableau)](https://public.tableau.com/app/profile/marina.martynova/viz/AutomatizationProject/AutomatizationProject)
 [(Перезентация)](https://goo.su/FDpUD)
 
