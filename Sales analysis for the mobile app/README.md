@@ -1,4 +1,4 @@
-# Анализ пользовательского поведения в мобильном приложении / Analysis of user behaviour in the mobile app 
+# Анализ пользовательского поведения в мобильном приложении / Analysis of user behaviour on the mobile app 
 [(Посмотреть проект)](https://github.com/martynovamarina/analytic_projects/blob/main/Sales%20analysis%20for%20the%20mobile%20app/Mobile%20App.ipynb)
 
 **Цели исследования:**
